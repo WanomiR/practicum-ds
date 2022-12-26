@@ -3,7 +3,7 @@ Projects I worked on during my study at Practicum.
 ## Externships
 | Project | Description | Libraries  |
 |:- |:- |:- |
-|[Music valence prediction](link)|…TBD|*librosa, …*|
+|[Music valence prediction](https://github.com/WanomiR/practicum/tree/main/Externship%20projects/Music%20valence%20prediction)|…TBD|*librosa, …*|
 
 ## Data Science
 | Project | Description | Libraries  |
