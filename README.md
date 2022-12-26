@@ -3,7 +3,7 @@ Projects I worked on during my study at Practicum.
 ## Externships
 | Project | Description | Libraries  |
 |:- |:- |:- |
-|[TBD](link)|…TBD|*pandas, numpy, …*|
+|[Music valence prediction](link)|…TBD|*librosa, …*|
 
 ## Data Science
 | Project | Description | Libraries  |
