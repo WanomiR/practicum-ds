@@ -8,7 +8,7 @@ Projects I worked on during my study at Practicum.
 ## Data Science
 | Project | Description | Libraries  |
 |:- |:- |:- |
-|[TBD](link)|…TBD|*pandas, numpy, …*|
+|[Telecom churn prediction](link)| With EDA, discovered patterns in customers’ behavior and dependencies between contract options and charges. Preprocessed data for training and tried several ML models. Used oversampling pipeline to avoid target leakage during parameter grid search. Determined the factors that affect churn. |*tensorflow keras, catboost, sklearn, imblearn, matplotlib, seaborn, pandas, numpy*|
 
 ## Data Analysis
 | Project | Description | Libraries  |
