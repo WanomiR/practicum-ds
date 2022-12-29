@@ -136,3 +136,6 @@ dmypy.json
 .mp3
 *.mp3
 
+
+# Other files
+Javier-spotifyData.ipynb
