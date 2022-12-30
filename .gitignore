@@ -128,9 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# csv files 
+# csv and tsv files 
 .csv
 *.csv
+.tsv
+*.tsv
 
 # mp3.files
 .mp3
