@@ -9,7 +9,6 @@ Projects I worked on during my study at Practicum.
 | Project | Description | Libraries  |
 |:- |:- |:- |
 |[Telecom churn prediction](https://github.com/WanomiR/practicum/blob/main/DS%20projects/Telecom%20.../telecom-churn-prediction.ipynb)| Discovered patterns in customers’ behavior and dependencies between contract options and charges. Preprocessed data for training and tried several ML models. Used oversampling pipeline to avoid target leakage during parameter grid search. Determined the factors that affect churn. |*tensorflow keras, catboost, sklearn, imblearn, matplotlib, seaborn, pandas, numpy*|
-
 |[Movie reviews classification](link)| Visualy explored the data to confirm that the train/test splitting is correct. Tried several text processing techniques using different libraries. Tested three ML models and determined the best model + processing technique combination for this dataset. | *torch, transformers, nltk, spacy, sklearn, lightgbm, matplotlib, seaborn, numpy, pandas* |
 
 ## Data Analysis
