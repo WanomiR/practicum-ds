@@ -141,4 +141,5 @@ dmypy.json
 *.wav
 
 # Other files
-Javier-spotifyData.ipynb.DS_Stroe
+Javier-spotifyData.ipynb
+.DS_Stroe
