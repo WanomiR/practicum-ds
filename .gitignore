@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.DS_Store
 
 # IPython
 profile_default/
@@ -134,10 +135,11 @@ dmypy.json
 .tsv
 *.tsv
 
-# mp3.files
+# mp3. and wav files
 .mp3
 *.mp3
-
+.wav
+*.wav
 
 # Other files
 Javier-spotifyData.ipynb
