@@ -3,7 +3,7 @@ Projects I worked on during my study at Practicum.
 ## Externships
 | Project | Description | Libraries  |
 |:- |:- |:- |
-|[Music valence prediction](https://github.com/WanomiR/practicum/tree/main/Externship%20projects/Music%20valence%20prediction)| *Work in progress...* |*librosa, …*|
+|[Music valence prediction](https://github.com/WanomiR/practicum/tree/main/Externship%20projects/Music%20valence%20prediction)| Before starting this project, I learned about signal processing techniques. For models training, I used one publicly available dataset of labeled songs, and another dataset obtained with the `spotipy` API and *HTML scraping*. I developed an algorithm for extracting audio features from an input audio file, then I trained several models on each dataset separately and on combined data, evaluating each model using the cross-validation technique and tuning hyperparameters with `GridSearchCV`. Additionally, I conducted a little test to see which model’s predictions are the closest to my personal subjective valence estimation. For the final solution, I wrote a Python script that takes an audio input and returns an estimated valence score with a 95% confidence interval. |*librosa, spotipy, beautifulsoup, catboost, lightgbm, xgboost, scikit-learn,  matplotlib, seaborn*|
 
 ## Data Science
 | Project | Description | Libraries  |
