@@ -1,5 +1,7 @@
 # Practicum Data Science
-Projects I worked on during my study at Practicum.
+
+Here are some of the projects I've worked on during my studies at Practicum.
+
 | Project | Description | Libraries  |
 |:- |:- |:- |
 |[Music valence prediction](https://github.com/WanomiR/practicum/blob/main/Music%20valence%20prediction/songValencePrediction-shallowModels.ipynb)| Predict song's valence using audio features. Takes an audio input and returns an estimated valence score with a 95% confidence interval. |*librosa, spotipy, beautifulsoup, catboost, lightgbm, xgboost, scikit-learn,  matplotlib, seaborn*|
