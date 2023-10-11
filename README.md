@@ -1,6 +1,5 @@
-# Practicum Data Science
+# Practicum US | Data Science
 
-Here are some of the projects I've worked on during my studies at Practicum.
 
 | Project | Description | Libraries  |
 |:- |:- |:- |
